@@ -4,6 +4,12 @@
 - 💞️ I’m looking to collaborate on Developing Operating System components and Qt Projects 
 - 📫 How to reach me: https://www.linkedin.com/in/aayush-gupta-works/ 
 
+## Open Source Contributions
+
+I actively contribute to open-source projects and believe in the power of collaboration and community-driven development. Below is an open source project I have contributed to:
+
+- [Embox](https://github.com/embox/embox)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aayush-gupta-works/)
 
 <!---
