@@ -11,6 +11,7 @@ I actively contribute to open-source projects and believe in the power of collab
 - [Embox](https://github.com/embox/embox)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aayush-gupta-works/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/AayushGupta69)
 
 <!---
 AayushGupta69/AayushGupta69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
