@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @AayushGupta69
 - 👀 I’m interested in developing Operating Systems, Cyber Security and Artificial Intelligence
-- 🌱 I’m currently learning C and C++
-- 💞️ I’m looking to collaborate on Developing Operating System components and Qt Projects 
+- 🌱 I’m currently learning C, C++ and Qt
+- 💞️ I’m looking to collaborate on developing Operating System components and Qt Projects 
 - 📫 How to reach me: https://www.linkedin.com/in/aayush-gupta-works/ 
 
 ## Open Source Contributions
 
-I actively contribute to open-source projects and believe in the power of collaboration and community-driven development. Below is an open source project I have contributed to:
+I actively contribute to open-source projects and believe in the power of collaboration and community-driven development. Below are some open source projects I have contributed to:
 
 - [Embox](https://github.com/embox/embox)
 - [leap-pe-tool](https://github.com/UDAAN-LEAP/leap-pe-tool)
