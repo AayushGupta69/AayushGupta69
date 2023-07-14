@@ -9,6 +9,7 @@
 I actively contribute to open-source projects and believe in the power of collaboration and community-driven development. Below is an open source project I have contributed to:
 
 - [Embox](https://github.com/embox/embox)
+- [leap-pe-tool](https://github.com/UDAAN-LEAP/leap-pe-tool)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aayush-gupta-works/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/AayushGupta69)
